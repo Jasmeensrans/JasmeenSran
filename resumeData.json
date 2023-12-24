@@ -1,0 +1,104 @@
+{
+    "main": {
+      "name":"Jasmeen Sran",
+      "description":"Web developer and 4th year student at University of Toronto, specialising in Computer Science",
+      "image":"profilepic.jpg",
+      "bio":"I'm a computer science student and web developer, currently based in Toronto, ON. I'm extremely passionate about web development, in my free time I enjoy contributing to open source projects and learning new programming frameworks. Some of my hobbies outside of coding include sewing, reading, dance and running!",
+      "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+      "email": "jasmeensran@hotmail.co.uk",
+      "github":"https://github.com/jasmeensrans",
+      "project":"https://www.linkedin.com/in/jasmeen-sran-2a2144224/",
+      "website": "http://www.timbakerdev.com",
+      "resumedownload":"http://timbakerdev.com",
+      "social":[
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/jasmeen-sran-2a2144224/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/jasmeensrans",
+          "className":"fa fa-github"
+        }
+      ]
+    },
+    "resume":{
+      "education":[
+        {
+          "school":"University of Toronto",
+          "degree":"BSc in Computer Science",
+          "graduated":"April 2024",
+          "description":"Specialist in Computer Science with a focus on web development, computation and mathematics"
+        }
+      ],
+      "work":[
+        {
+          "company":"Xero Accounting Software",
+          "title":"Software Engineer Intern",
+          "years":"May 2022 - August 2023",
+          "description":" Delivered React component based front end features for a cloud accounting product in critical stages of tech stack modernization journey Championed the feature to increase the screen real estate to accommodate more line items on screen, critical feature used by 50,000 accountants per day. Implemented API endpoints in .Net Core backend that attracted traffic of 40k requests/min."
+        }
+      ],
+      "skills":[
+        {
+          "name":"Javascript",
+          "level": "80%"
+        },
+
+        {
+          "name":"ReactJs",
+          "level":"80%"
+        },
+        {
+          "name":"CSS+HTML",
+          "level":"80%"
+        },
+        {
+          "name":"AWS Lambada",
+          "level":"40%"
+        },
+        {
+          "name":"C#",
+          "level":"70%"
+        },
+        {
+          "name":"Typescript",
+          "level":"70%"
+        },
+        {
+          "name":"JAVA",
+          "level":"60%"
+        },
+        {
+          "name":"ASP .NET",
+          "level":"60%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"AWS Book API",
+          "image":"01.jpg",
+          "url":"https://github.com/Jasmeensrans/AWSBookAPI"
+        },
+        {
+          "title":"SewMuchFun",
+          "image":"02.png",
+          "url":"https://sewmuchfun.fly.dev/"
+        },
+        {
+          "title":"Personal Portfolio V1",
+          "image":"03.png",
+          "url":"https://github.com/Jasmeensrans/Personal-Portfolio"
+        },
+        {
+          "title":"Airline Reservation System",
+          "image":"04.jpg",
+          "url":"https://github.com/Jasmeensrans/Airline-Reservation-System"
+        }
+      ]
+    }
+  }
+  
